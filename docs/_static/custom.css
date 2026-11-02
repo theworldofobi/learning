@@ -1,0 +1,5 @@
+/* TODO: book-specific style tweaks go here. */
+
+/* teachbooks-questions cards have a light background; force dark text so they
+   stay readable in Shibuya's dark mode. */
+.multiple-choice .sd-card, .short-answer .sd-card, .no-input .sd-card { color: #1f2328; }
